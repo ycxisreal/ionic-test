@@ -1,0 +1,8 @@
+{
+  "name": "ionic_test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "1783441d"
+}
